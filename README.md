@@ -3,7 +3,7 @@
 Welcome to the Automated App Programming! This custom GPT is designed to streamline the app development process by simulating an efficient, collaborative development team. The tool integrates four specialized agents to handle the entire lifecycle of app creation from planning to refinement.
 
 ## Link
-[Automated App Programming](https://chatgpt.com/g/g-3Vl85HTHX-automated-app-programming).
+[https://chatgpt.com/g/g-3Vl85HTHX-automated-app-programming](https://chatgpt.com/g/g-3Vl85HTHX-automated-app-programming)
 
 ## How It Works
 
